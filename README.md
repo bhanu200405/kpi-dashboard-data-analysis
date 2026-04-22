@@ -1,13 +1,12 @@
 ## 🧾 What I Analyzed
 
-This project focuses on analyzing a 2-year retail dataset (2023–2024) to understand real business performance and identify key factors affecting sales, profit, and customer behavior.
+This project analyzes a 2-year retail dataset (2023–2024) to understand business performance and identify key factors affecting sales, profit, and customer behavior.
 
-The analysis helps in solving business problems such as:
-- Identifying top-performing products and categories
-- Understanding customer purchasing patterns
-- Evaluating regional sales performance
-- Analyzing impact of discounts on profitability
-- Studying monthly sales trends and seasonality
+The analysis focuses on solving real business questions such as:
+- Which products generate the highest revenue?
+- How does region impact sales performance?
+- How do discounts affect profitability?
+- What drives repeat customer purchases?
 - 
 - ## 📊 KPIs Calculated
 
@@ -26,12 +25,14 @@ The following business KPIs were built and analyzed:
 
 - ## 📌 Key Insights
 
-- Top 10 products contribute approximately 35–45% of total revenue
-- South region shows the highest sales contribution (~30%+)
-- Around 20% of products generate nearly 80% of total revenue (Pareto principle)
-- Repeat customers contribute significantly higher revenue than one-time buyers
-- High discount products tend to reduce profit margins
-- Sales show clear seasonal patterns across months (2023–2024)
+- Top 10 products contribute a major share of total revenue (~35–45%)
+- South region performs the highest in overall sales (~30%+ contribution)
+- 20% of products generate nearly 80% of total revenue (Pareto principle)
+- Repeat customers contribute significantly more revenue than one-time buyers
+- High discounts (>15%) often reduce profit margins
+- Sales show clear seasonal trends across 2023–2024
+
+- These insights help convert raw data into actionable business decisions.
 
 - ## 🎯 Business Impact
 
