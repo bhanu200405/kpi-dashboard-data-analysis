@@ -1,35 +1,42 @@
 # 📊 KPI Dashboard Data Analysis Project
 
 ## 🧾 Project Overview
-This project is a data analytics case study using a 2-year retail dataset (2023–2024).  
-It analyzes business performance using SQL, Python, Excel, and Power BI to extract meaningful insights and support data-driven decisions.
+This project is a real-world data analytics case study based on a 2-year retail dataset (2023–2024).  
+It focuses on analyzing business performance using SQL, Python, Excel, and Power BI to generate actionable insights for decision-making.
+
+The goal is to understand sales trends, customer behavior, product performance, and regional performance.
 
 ---
 
 ## 🎯 Objective
-To analyze sales data and generate KPIs such as revenue, profit, customer behavior, and product performance using multiple analytical tools.
+To perform end-to-end data analysis and build KPIs that help understand:
+- Sales performance
+- Profitability
+- Customer patterns
+- Product trends
+- Regional contributions
 
 ---
 
-## 🛠️ Tools Used
-- SQL (data extraction and KPI queries)
-- Python (Pandas, Matplotlib, Seaborn)
-- Excel (Pivot Tables, Charts, Dashboarding)
-- Power BI (Interactive dashboards and DAX measures)
+## 🛠️ Tools & Technologies Used
+- SQL → Data extraction and KPI queries  
+- Python (Pandas, Matplotlib, Seaborn) → Data analysis & visualization  
+- Excel → Pivot tables, formulas, dashboards  
+- Power BI → Interactive dashboard & DAX measures  
 
 ---
 
-## 📊 KPIs Analyzed
+## 📊 Key KPIs Analyzed
 - Total Sales
 - Total Profit
 - Profit Margin %
-- Top Selling Products
 - Monthly Sales Trend (2023–2024)
+- Top 10 Selling Products
 - Customer Repeat Purchases
-- Region-wise Performance
-- Payment Mode Contribution
-- Brand Performance Analysis
+- Region-wise Sales Performance
+- Brand Performance
 - Discount Impact on Sales
+- Payment Mode Contribution
 
 ---
 
@@ -39,29 +46,30 @@ To analyze sales data and generate KPIs such as revenue, profit, customer behavi
 ---
 
 ## 📌 Key Insights
-- Top 10 products contribute majority of total revenue  
-- South region shows highest sales performance  
-- Around 20% of products generate 80% of revenue (Pareto principle)  
-- Repeat customers significantly impact overall sales  
-- Sales show clear seasonal monthly trends  
+- Top 10 products contribute a major share of total revenue  
+- South region shows the highest sales performance across 2 years  
+- Around 20% of products generate nearly 80% of revenue (Pareto principle)  
+- Repeat customers contribute significantly to overall sales  
+- Sales show a clear seasonal trend across months (2023–2024)  
 
 ---
 
 ## 📁 Project Structure
 - data → Raw dataset (flipkart_dataset.xlsx)  
 - sql → SQL queries for KPI analysis  
-- notebook → Python analysis (Pandas)  
-- excel → Excel dashboard and pivot tables  
+- notebook → Python analysis (Pandas, visualization)  
+- excel → Excel dashboards and pivot tables  
 - powerbi → Power BI dashboard file  
-- images → Visual outputs and screenshots  
+- images → Visual outputs and charts  
 
 ---
 
 ## 🚀 Conclusion
-This project demonstrates end-to-end data analysis workflow using SQL, Python, Excel, and Power BI to extract business insights and support decision-making.
+This project demonstrates a complete data analytics workflow from raw data to insights using SQL, Python, Excel, and Power BI.  
+It helps in understanding real business KPIs and improving decision-making through data.
 
 ---
 
 ## 👨‍💻 Author
 Bhanu Prasad  
-Data Science Student | Python | SQL | Power BI | Data Analysis
+Data Science Student | Python | SQL | Power BI | Data Analytics
