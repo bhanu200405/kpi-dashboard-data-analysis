@@ -1,46 +1,30 @@
-🧾 Project Overview
+In this project, I analyzed a 2-year retail dataset (2023–2024) to understand real business performance.
 
-This project analyzes a 2-year retail dataset (2023–2024) to understand business performance using SQL, Python, Excel, and Power BI.
-The goal is to extract actionable insights from sales data and support data-driven decision making.
+I worked on:
+- Sales and profit trends over time
+- Product performance across categories
+- Customer buying behavior and repeat purchases
+- Region-wise sales contribution
+- Impact of discounts on profit margins
+- Brand performance comparison
 
-📊 What I Analyzed (IMPORTANT SECTION)
+- The following KPIs were built and analyzed:
 
-In this project, I analyzed:
+- Total Sales and Total Profit
+- Profit Margin %
+- Monthly Sales Trend (2023–2024)
+- Top 10 Best-Selling Products
+- Customer Repeat Purchase Count
+- Region-wise Sales Distribution
+- Brand-wise Revenue Contribution
+- Discount vs Profit Relationship
+- Payment Mode Contribution to Sales
 
-Sales performance across 2 years (2023–2024)
-Product-level revenue contribution
-Customer purchasing behavior
-Region-wise sales distribution
-Discount impact on profit
-Brand performance trends
-Monthly sales patterns and seasonality
-📈 KPIs I Calculated (IMPORTANT SECTION)
+- - Top 10 products contribute a major share of total revenue (~35–45%)
+- South region performs the highest in overall sales
+- Around 20% of products generate nearly 80% of revenue (Pareto principle)
+- Customers with repeat purchases contribute significantly more revenue
+- High discount products often result in lower profit margins
+- Sales show strong monthly seasonal trends across 2023–2024
 
-I built and analyzed the following KPIs:
-
-Total Sales
-Total Profit
-Profit Margin %
-Top 10 Best-Selling Products
-Monthly Revenue Trend
-Customer Repeat Purchase Rate
-Region-wise Revenue Contribution
-Brand-wise Sales Performance
-Discount vs Profit Relationship
-Payment Mode Contribution
-📌 Key Insights (WITH NUMBERS – VERY IMPORTANT)
-Top 10 products contribute approximately 35–45% of total revenue
-The South region contributes the highest sales share (~30%+)
-Around 20% of products generate nearly 80% of total revenue (Pareto principle)
-Repeat customers contribute significantly higher order volume than one-time buyers
-Sales show clear seasonal growth pattern across months in 2023–2024
-High discount products (>15%) often show reduced profit margins
-🎯 Business Impact
-
-These insights help businesses to:
-
-Identify top-performing products and focus marketing efforts
-Improve regional sales strategies
-Optimize discount policies
-Increase customer retention
-Improve overall profitability
+- 
