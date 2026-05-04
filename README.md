@@ -53,3 +53,13 @@ The objective of this project is to analyze key business metrics such as sales, 
 - Some categories perform better in terms of profit, while others generate higher sales volume.  
 - There is a noticeable variation between sales and profit, indicating cost differences across products.  
 
+## 📷 Dashboard Preview
+
+### 📊 KPI Dashboard
+![Dashboard](images/dashboard.png)
+
+### 📈 Sales Analysis
+![Sales](images/sales.png)
+
+### 💰 Profit Analysis
+![Profit](images/profit.png)
